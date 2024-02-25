@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">project</string>
+    <string name="head_txt_Book_Lover">Welcome To Book Lover</string>
+    <string name="head_txt_signin">Sign In</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="head_txt_signup">Sign Up</string>
+    <string name="save">Save</string>
+</resources>
